@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Olga 👋</h1>
 
-<!--
-**Liasique/Liasique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🏊 Piscine 42 student | 💻 Aspiring fullstack developer <br>
+  🇫🇷 Based in France | 🌱 Passionate about code & lifelong learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- 💻 **Languages**: C, Java, JavaScript, PHP  
+- ⚙️ **Frameworks**: Symfony  
+- 🔧 **Tools**: Git, Bash, Makefiles  
+- 🐧 **OS**: macOS, Linux (Ubuntu)
+
+---
+
+### 🌱 Currently Learning
+
+- Low-level programming in C (Piscine 42)
+- Algorithms & data structures
+- Shell scripting and UNIX philosophy
+- Git workflows & version control best practices
+
+---
+
+### ✨ Fun facts — *Piscine 42 edition*
+
+- 📟 Moulinette doesn’t love me back, but I keep trying  
+- 🐚 Used to think Shell was something on the beach  
+- 🔁 Rewrote the same loop 7 times before it finally worked  
+- 🧠 Learned recursion by getting stuck in one  
+- 💬 Peer evaluations taught me more than any tutorial ever could  
+- 🧪 Debugging is now a personality trait  
+- ✅ Passing `cc -Wall -Wextra -Werror` feels like winning the lottery
+
+---
+
+### 💬 Quotes I like
+
+> “Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand.”  
+> — *Martin Fowler*
+
+> “Stay curious. Stay stubborn. Stay weird.”  
+> — *Probably someone at 42*
+
+---
+
+### 📫 Let's connect
+
+- GitHub: [Liasique](https://github.com/Liasique)
+
+---
