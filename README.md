@@ -30,7 +30,6 @@
 - 📟 Moulinette doesn’t love me back, but I keep trying  
 - 🐚 Used to think Shell was something on the beach  
 - 🔁 Rewrote the same loop 7 times before it finally worked  
-- 🧠 Learned recursion by getting stuck in one  
 - 💬 Peer evaluations taught me more than any tutorial ever could  
 - 🧪 Debugging is now a personality trait  
 - ✅ Passing `cc -Wall -Wextra -Werror` feels like winning the lottery
