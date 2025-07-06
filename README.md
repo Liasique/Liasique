@@ -11,7 +11,7 @@
 
 - 💻 **Languages**: C, Java, JavaScript, PHP  
 - ⚙️ **Frameworks**: Symfony  
-- 🔧 **Tools**: Git, Bash, Makefiles  
+- 🔧 **Tools**: Git, Bash 
 - 🐧 **OS**: macOS, Linux (Ubuntu)
 
 ---
