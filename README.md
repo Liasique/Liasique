@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Olga 👋</h1>
 
 <p align="center">
-  🏊 42 student | 💻 Aspiring fullstack developer <br>
+  🏊 42 student | 💻 
   🇫🇷 Based in France | 🌱 Passionate about code & lifelong learning
 </p>
 
