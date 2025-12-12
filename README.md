@@ -18,21 +18,10 @@
 
 ### 🌱 Currently Learning
 
-- Low-level programming in C (Piscine 42)
+- Low-level programming in C
 - Algorithms & data structures
 - Shell scripting and UNIX philosophy
 - Git workflows & version control best practices
-
----
-
-### ✨ Fun facts — *Piscine 42 edition*
-
-- 📟 Moulinette doesn’t love me back, but I keep trying  
-- 🐚 Used to think Shell was something on the beach  
-- 🔁 Rewrote the same loop 7 times before it finally worked  
-- 💬 Peer evaluations taught me more than any tutorial ever could  
-- 🧪 Debugging is now a personality trait  
-- ✅ Passing `cc -Wall -Wextra -Werror` feels like winning the lottery
 
 ---
 
